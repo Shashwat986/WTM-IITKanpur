@@ -6,7 +6,7 @@
 `text8` dataset is a subset of the dataset available here:
 http://mattmahoney.net/dc/textdata
 
-`evolutionText.py` is taken from usingpython.com
+`evolutionText.py` is taken from http://usingpython.com
 
 `hangman.py` is taken from http://inventwithpython.com/chapter9.html
 
