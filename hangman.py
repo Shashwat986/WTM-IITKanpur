@@ -1,5 +1,9 @@
 from __future__ import print_function
-input = raw_input
+try:
+	input = raw_input
+except NameError:
+	pass
+
 import random
 HANGMANPICS = ['''
 

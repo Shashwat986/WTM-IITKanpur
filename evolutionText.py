@@ -3,6 +3,12 @@
 # More programs at: usingpython.com/programs
 #-----------------------------------------------------
 
+# Python2 compatibility
+try:
+	input = raw_input
+except NameError:
+	pass
+
 import string
 import random
 import time
