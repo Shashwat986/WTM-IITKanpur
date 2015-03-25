@@ -37,7 +37,7 @@ For someone interested in learning Python, I have found the following resources 
 
 * https://docs.python.org/2/tutorial/
 * https://docs.python.org/2/index.html
-* http://learnpythonthehardway.org/book/
+* http://newcoder.io
 * http://www.codecademy.com/en/tracks/python
 * http://www.diveintopython.net/
 
